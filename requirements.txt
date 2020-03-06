@@ -1,4 +1,4 @@
-jwt
+pyjwt
 flask
 gunicorn
 pytest

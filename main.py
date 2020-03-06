@@ -7,7 +7,6 @@ import logging
 import datetime
 import functools
 import jwt
-import pyjwt
 
 # pylint: disable=import-error
 from flask import Flask, jsonify, request, abort
